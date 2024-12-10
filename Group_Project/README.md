@@ -42,13 +42,13 @@ The repository is organized as follows:
 - **`/Code`**: Contains Python scripts for data processing, analysis, and visualization.  
 - **`/Dataset`**: Includes raw datasets data files used in the analysis.  
 - **`/Docs`**: Documentation for dependencies, environment setup, and project workflows.  
-- **`/visualizations`**: Outputs of pilot visualizations such as choropleth maps, Sankey diagrams, and time-series graphs.  
+- **`/Visualization`**: Outputs of pilot visualizations such as choropleth maps, Sankey diagrams, and time-series graphs.  
 
 ### How to Navigate the Repository
 - **Code for simulations and visualizations**: Refer to the `/Code` directory for detailed implementations.  
-- **Sample datasets**: Available in the `/Dataset/raw` folder, with processed outputs in `/Dataset/processed`.  
-- **Documentation**: Setup instructions are provided in `/Docs/environment_setup.md`.  
-- **Pilot Visualizations**: Explore figures and drafts in `/visualizations`.  
+- **Sample datasets**: Available in the `/Dataset` folder, with processed outputs in `/Code/Dataset`.  
+- **Documentation**: Setup instructions are provided in `/Docs/`.  
+- **Pilot Visualizations**: Explore figures and drafts in `/Visualization`.  
 
 ## Research Question
 How do demographic factors—such as age, gender, race, education, income, and occupation—impact U.S. election outcomes in North Carolina?
