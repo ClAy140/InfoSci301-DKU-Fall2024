@@ -34,7 +34,7 @@ Voting datasets are organized by election year in folders (`vote2008`, `vote2012
 - **`2024_random_20000_rows.csv`**: A sample of 20,000 randomly selected rows from the full dataset for quick analysis.  
 - **`absentee_20241105.csv`**: Raw absentee ballot data from the 2024 election.  
 - **`absentee_20241105_preprocessed.csv`**: Preprocessed version of the absentee dataset, ready for analysis.  
-- **`absentee_20241105_report.md`**: Report detailing preprocessing steps and key observations.
+- **`absentee_20241105_report.md`**: Report key observations.
 
 ### Source
 The voting data is collected from the **North Carolina State Board of Elections**:
@@ -58,7 +58,7 @@ All voting datasets include the following columns:
 
 2. **Voting Data**:
    - `*_preprocessed.csv` files are cleaned and normalized, suitable for immediate analysis.  
-   - Refer to the `*_report.md` files for detailed documentation of data preprocessing and summaries.  
+   - Refer to the `*_report.md` files for detailed documentation of summaries.  
 
 ---
 
