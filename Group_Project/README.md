@@ -1,7 +1,7 @@
 # Analyzing the Impact of Demographic Factors on the U.S. Presidential Election Outcomes: A Case Study of North Carolina
 
 ## Authors
-- **Peng Wang**: Data Collecting, Data Preprocessing, visualization Designer
+- **Peng Wang**: Data Collecting, Data Preprocessing, Visualization Designer
 - **Xiaoyi Kuang**: 
 - **Yijia Sun**: 
 
