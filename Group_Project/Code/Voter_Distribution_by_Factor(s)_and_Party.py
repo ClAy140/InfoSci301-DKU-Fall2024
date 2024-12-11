@@ -91,9 +91,9 @@ app = Dash(__name__)
 
 # Define file paths for datasets
 file_paths = {
-    "2016": "Dataset/Vote2016/2016_random_20000_rows.csv",
-    "2020": "Dataset/Vote2020/2020_random_20000_rows.csv",
-    "2024": "Dataset/Vote2024/2024_random_20000_rows.csv"
+    "2016": "Dataset/vote2016/2016_random_20000_rows.csv",
+    "2020": "Dataset/vote2020/2020_random_20000_rows.csv",
+    "2024": "Dataset/vote2024/2024_random_20000_rows.csv"
 }
 
 # Define color palettes
