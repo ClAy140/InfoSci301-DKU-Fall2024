@@ -24,7 +24,7 @@ Explore the interactive graphs developed for our group project, **"Analyzing the
 [![Demo Video](https://img.youtube.com/vi/d2PHs0EnliU/0.jpg)](https://youtu.be/d2PHs0EnliU)
 
 ### Poster
-![Research Poster](Docs/Poster.png)
+![Research Poster](Docs/INFOSCI 301 Data Visualization and Information Aesthetics (1).png)
 
 ## Statement of Intellectual and Professional Growth
 This project has been a profound journey of intellectual and professional development. Through exploring complex datasets and designing intuitive visualizations, we gained insights into the intersection of data science and political analysis. We refined our technical skills in Python, enhanced our understanding of demographic influences on elections, and fostered collaboration within an interdisciplinary team.  
