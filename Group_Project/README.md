@@ -22,7 +22,7 @@ We extend our gratitude to:
 Explore the interactive graphs developed for our group project, **"Analyzing the Impact of Demographic Factors on the U.S. Presidential Election Outcomes: A Case Study of North Carolina."** The video demonstrates how our visualizations allow users to engage with data dynamically, revealing trends in voting behavior and demographic impacts.
 
 [![Demo Video](https://img.youtube.com/vi/d2PHs0EnliU/0.jpg)](https://youtu.be/d2PHs0EnliU)
-[![Demo Video Part 2](https://www.youtube.com/watch?v=g5i9x2-tbMc/0.jpg)](https://www.youtube.com/watch?v=g5i9x2-tbMc)
+[![Demo Video Part 2](https://img.youtube.com/vi/g5i9x2-tbMc/0.jpg)](https://www.youtube.com/watch?v=g5i9x2-tbMc)
 
 ### Poster
 ![Research Poster](Docs/Poster1.png)
