@@ -81,7 +81,7 @@ def create_figure(year, color_scale, scale_type):
     return fig
 
 # Streamlit interface
-st.title("Party Preference by County in North Carolina")
+st.title("Vote Amount by County in North Carolina")
 
 # Dropdown to select Year
 year = st.selectbox("Select Year", ['2016', '2020', '2024'])

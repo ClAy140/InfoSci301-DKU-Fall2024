@@ -3,10 +3,16 @@ import pandas as pd
 import plotly.express as px
 
 # Define file paths for each year's dataset
+# file_paths = {
+#     2016: '/Users/xiaoyikuang/Downloads/2016_random_20000_rows.csv',
+#     2020: '/Users/xiaoyikuang/Downloads/2020_random_20000_rows.csv',
+#     2024: '/Users/xiaoyikuang/Downloads/2024_random_20000_rows.csv'
+# }
+
 file_paths = {
-    2016: '/Users/xiaoyikuang/Downloads/2016_random_20000_rows.csv',
-    2020: '/Users/xiaoyikuang/Downloads/2020_random_20000_rows.csv',
-    2024: '/Users/xiaoyikuang/Downloads/2024_random_20000_rows.csv'
+    2016: 'Dataset/vote2016/2016_random_20000_rows.csv',
+    2020: 'Dataset/vote2020/2020_random_20000_rows.csv',
+    2024: 'Dataset/vote2024/2024_random_20000_rows.csv'
 }
 
 # Function to load and preprocess data
