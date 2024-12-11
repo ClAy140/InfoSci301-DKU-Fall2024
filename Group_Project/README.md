@@ -2,7 +2,7 @@
 
 ## Authors
 - **Peng Wang**: Data Collecting, Data Preprocessing, Visualization Designer
-- **Xiaoyi Kuang**: 
+- **Xiaoyi Kuang**: Literature Review, Visualization Designer, Writer
 - **Yijia Sun**: 
 
 
